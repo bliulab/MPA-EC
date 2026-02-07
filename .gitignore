@@ -1,0 +1,6 @@
+models/
+data/
+logs/
+*.pth
+*.pt
+*.bin
